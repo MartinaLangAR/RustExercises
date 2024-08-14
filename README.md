@@ -1,0 +1,2 @@
+# RustExercises
+Excercises for Rusr
